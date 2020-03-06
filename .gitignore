@@ -1,0 +1,7 @@
+*/target
+metastore_db
+.csv
+.DS_Store
+.json
+.classpath
+.project
